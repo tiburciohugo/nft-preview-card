@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/github-user-search-app-e4TnIP4UNR)
-- Live Site URL: [Add live site URL here](https://github-user-search-tiburcio.vercel.app)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-next-tailwind-css-1A9hv1HnG9)
+- Live Site URL: [Add live site URL here](https://nft-preview-card-n49h1t7aa-tiburciohugo.vercel.app)
 
 ## My process
 
